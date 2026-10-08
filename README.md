@@ -1,4 +1,4 @@
-# Cryptographic Faithful Aggregation: simulation core (v0.1)
+# PVBRF-ID: Private, Verifiable and Byzantine-Robust Federated Intrusion Detection for Oilfield Enterprise Networks
 
 Files
 - faithful_agg.py  core: 2-server secret sharing, Beaver-triple norm/cosine tests, Merkle inclusion, Pedersen verifiable aggregation
